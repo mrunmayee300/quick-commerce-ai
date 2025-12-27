@@ -8,3 +8,6 @@ joblib
 scikit-learn
 python-multipart
 xgboost
+plotly
+requests
+streamlit
