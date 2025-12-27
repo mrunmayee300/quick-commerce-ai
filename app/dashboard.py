@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 
-API_URL = "http://localhost:8000"
+API_URL = "https://quick-commerce-ai-backend.onrender.com/"
 
 # Page Config (Enterprise Mode)
 st.set_page_config(
